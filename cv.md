@@ -1,7 +1,11 @@
 # Dmitriy Bobrovskiy
+
 ===
+
 ## Student
+
 ===
+
 ## Contact information:
 **Phone:** +37066941102
 
@@ -19,4 +23,5 @@
 * Russian-native
 * Ukrainian-native
 * English-intermediate
+
 ===
